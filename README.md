@@ -1,9 +1,7 @@
 Oiii! Eu sou o Angelo Marques 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloMarquess&show_icons=true&theme=merko)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloMarquess&show_icons=true&theme=merko) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloMarquess&layout=compact&theme=merko)](https://github.com/AngeloMarquess/github-readme-stats)
 
 
