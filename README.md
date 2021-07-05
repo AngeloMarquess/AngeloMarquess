@@ -16,6 +16,10 @@ Oiii! Eu sou o Angelo Marques
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+   <img align="center" alt="Vivi-Git" height="50em"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
+
+    
+    
     
 
 <div style="display: inline_block"><br>  
