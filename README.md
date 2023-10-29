@@ -1,4 +1,12 @@
-Oiii! Eu sou o Angelo Marques 
+Profissional com 18 anos de experiência na área de tecnologia da informação, com vivência tanto no setor público quanto no privado, colaborando com diversas equipes de desenvolvimento de software. Isso me permitiu desenvolver habilidades de liderança de equipe aliadas à gestão de projetos de TI, com especialização em Cloud, ECM, BPM e ITSM.
+Tenho uma vasta experiência em Service Desk com foco na ferramenta CA SDM da Broadcom. Isso inclui a instalação, configuração e sustentação da ferramenta para garantir a eficiência e o suporte adequado a clientes de renome, como Natura, Sodexo e Sonda. Minha atuação abrangeu desde a implementação inicial até a manutenção contínua, garantindo que as operações de Service Desk atendessem às necessidades específicas dessas empresas.
+Além disso, adquiri proficiência no módulo PAM (Process Automation Manager) da CA SDM, permitindo a automação de processos e aprimorando a eficiência operacional. Também tenho experiência no uso do módulo de relatórios "Boxe," o que me permitiu criar relatórios personalizados e análises de dados que contribuíram significativamente para a tomada de decisões estratégicas e o monitoramento de desempenho.
+Essa experiência consolidou minha habilidade em oferecer suporte de alta qualidade em ambientes complexos de ITSM, destacando minha capacidade de lidar com ferramentas de última geração e adaptá-las às necessidades de clientes de grande porte.
+ Possuo conhecimento sólido na implementação de soluções para projetos de ECM e Workflow. Também atuei na gestão de equipes como Gerente de Produto, contribuindo para a descoberta de novos talentos. 
+Certificado como PSM I Scrum Master, participei de reuniões de equipes de desenvolvimento web com foco no back office e desempenhei um papel ativo na comunidade ágil interna da empresa, conduzindo apresentações e dinâmicas.
+Tenho amplo conhecimento em hardware, sistemas operacionais, servidores Windows e Linux, bem como experiência em suporte técnico, Service Desk, help desk e administração de redes de computadores. Atuei em projetos na área hospitalar, implementando soluções em grandes hospitais.
+Além disso, tenho experiência em pré-vendas, auxiliando o setor comercial na aquisição de novos clientes. Possuo conhecimento em gerenciamento de projetos com a ferramenta Microsoft Project e expertise em ferramentas como Perceptive Software, Oracle UCM, Alfresco ECM e Lasefche ECM.
+Também sou habilidoso na instalação e configuração de bancos de dados Oracle e SQL Server.
 
 <div>
   <a href="https://github.com/AngeloMarquess">
