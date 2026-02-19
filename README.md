@@ -1,12 +1,56 @@
-Profissional com 18 anos de experiência na área de tecnologia da informação, com vivência tanto no setor público quanto no privado, colaborando com diversas equipes de desenvolvimento de software. Isso me permitiu desenvolver habilidades de liderança de equipe aliadas à gestão de projetos de TI, com especialização em Cloud, ECM, BPM e ITSM.
-Tenho uma vasta experiência em Service Desk com foco na ferramenta CA SDM da Broadcom. Isso inclui a instalação, configuração e sustentação da ferramenta para garantir a eficiência e o suporte adequado a clientes de renome, como Natura, Sodexo e Sonda. Minha atuação abrangeu desde a implementação inicial até a manutenção contínua, garantindo que as operações de Service Desk atendessem às necessidades específicas dessas empresas.
-Além disso, adquiri proficiência no módulo PAM (Process Automation Manager) da CA SDM, permitindo a automação de processos e aprimorando a eficiência operacional. Também tenho experiência no uso do módulo de relatórios "Boxe," o que me permitiu criar relatórios personalizados e análises de dados que contribuíram significativamente para a tomada de decisões estratégicas e o monitoramento de desempenho.
-Essa experiência consolidou minha habilidade em oferecer suporte de alta qualidade em ambientes complexos de ITSM, destacando minha capacidade de lidar com ferramentas de última geração e adaptá-las às necessidades de clientes de grande porte.
- Possuo conhecimento sólido na implementação de soluções para projetos de ECM e Workflow. Também atuei na gestão de equipes como Gerente de Produto, contribuindo para a descoberta de novos talentos. 
-Certificado como PSM I Scrum Master, participei de reuniões de equipes de desenvolvimento web com foco no back office e desempenhei um papel ativo na comunidade ágil interna da empresa, conduzindo apresentações e dinâmicas.
-Tenho amplo conhecimento em hardware, sistemas operacionais, servidores Windows e Linux, bem como experiência em suporte técnico, Service Desk, help desk e administração de redes de computadores. Atuei em projetos na área hospitalar, implementando soluções em grandes hospitais.
-Além disso, tenho experiência em pré-vendas, auxiliando o setor comercial na aquisição de novos clientes. Possuo conhecimento em gerenciamento de projetos com a ferramenta Microsoft Project e expertise em ferramentas como Perceptive Software, Oracle UCM, Alfresco ECM e Lasefche ECM.
-Também sou habilidoso na instalação e configuração de bancos de dados Oracle e SQL Server.
+Eu aprendi cedo que tecnologia não é sobre servidores, sistemas ou ferramentas… é sobre resolver problemas que mantêm empresas acordadas à noite.
+
+Ao longo de 18 anos mergulhado no coração da Tecnologia da Informação, vivi na prática o que significa sustentar operações críticas, transformar caos em processos eficientes e implementar soluções que simplesmente não podem falhar.
+
+Minha jornada me levou do Service Desk à liderança de projetos estratégicos, atuando em ambientes complexos nos setores público e privado, apoiando organizações como Natura, Sodexo e Sonda, onde não existe espaço para improviso — apenas excelência.
+
+Hoje, minha especialidade está em ITSM, Cloud, ECM e BPM, com forte atuação em plataformas como CA Service Desk Manager (Broadcom), onde fui responsável por:
+
+Implantação completa, configuração e sustentação da solução
+
+Automação de processos com PAM (Process Automation Manager)
+
+Criação de relatórios estratégicos com Boxi, transformando dados em decisões
+
+Otimização de operações críticas de suporte e atendimento
+
+Também atuei diretamente na implementação de soluções ECM e Workflow, utilizando tecnologias como:
+
+Alfresco ECM
+
+Oracle UCM
+
+Perceptive Software
+
+Laserfiche
+
+Minha experiência vai além da tecnologia. Como Gerente de Produto e líder técnico, desenvolvi equipes, descobri talentos e conduzi iniciativas com foco em resultados reais.
+
+Sou certificado PSM I Scrum Master, com atuação ativa em ambientes ágeis, contribuindo para a evolução contínua de times e processos.
+
+Minha base técnica é sólida e abrangente:
+
+Administração de servidores Windows e Linux
+
+Bancos de dados Oracle e SQL Server
+
+Redes corporativas e infraestrutura
+
+Projetos hospitalares de missão crítica
+
+Pré-vendas técnicas e apoio estratégico comercial
+
+Gestão de projetos com Microsoft Project
+
+💡 Meu posicionamento hoje
+
+Não sou apenas um profissional que mantém sistemas funcionando.
+
+Sou alguém que entende o impacto da tecnologia no negócio e trabalha para garantir eficiência, escalabilidade e confiança.
+
+Minha missão é simples:
+
+Transformar tecnologia em vantagem competitiva.
 
 <div>
   <a href="https://github.com/AngeloMarquess">
